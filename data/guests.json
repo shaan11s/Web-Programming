@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "Fsdf",
+    "lastName": "Fsdf",
+    "dob": "2024-08-14",
+    "ssn": "12",
+    "category": "Adult",
+    "bookingNumber": "BOOK595361"
+  },
+  {
+    "firstName": "Shaan",
+    "lastName": "Sek",
+    "dob": "2024-08-13",
+    "ssn": "555",
+    "category": "Adult",
+    "bookingNumber": "BOOK763763"
+  },
+  {
+    "firstName": "Shaan",
+    "lastName": "Sekon",
+    "dob": "2024-08-27",
+    "ssn": "111",
+    "category": "Adult",
+    "bookingNumber": "BOOK45093"
+  }
+]

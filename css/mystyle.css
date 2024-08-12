@@ -1,0 +1,95 @@
+/* mystyle.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+header {
+    background: #0033A0;
+    color: #fff;
+    padding: 1em 0;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background: #0056b3; 
+}
+
+nav a {
+    color: #fff;
+    padding: 1em;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background: #fff700; 
+}
+
+.content {
+    display: flex;
+    flex: 1;
+}
+
+main {
+    flex: 3;
+    padding: 1em;
+}
+
+aside {
+    flex: 1;
+    background: #d9d9d9; 
+    padding: 1em;
+    border-right: 1px solid #ccc; /*border on right */
+}
+
+footer {
+    background: #0033A0; 
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+.flight-combo {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.flight {
+    margin-bottom: 10px;
+}
+
+.return-flight {
+    margin-top: 10px;
+    padding-left: 20px;
+    border-left: 2px solid #ddd;
+}
+
+#logoutButton {
+    display: none; /* Initially hidden */
+    background-color: #d12858; /* Dark navy blue */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+#logoutButton:hover {
+    background: #fff700; 
+}

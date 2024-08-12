@@ -1,0 +1,74 @@
+[
+  {
+    "phone": "(222) 222-2222",
+    "password": "password",
+    "firstName": "Admin",
+    "lastName": "User",
+    "dob": "01/01/1970",
+    "email": "admin@admin.com",
+    "gender": "male"
+  },
+  {
+    "phone": "(214) 664-1058",
+    "password": "password",
+    "firstName": "Shaan",
+    "lastName": "Sekhon",
+    "dob": "03/03/1945",
+    "email": "ob@gmail.com",
+    "gender": "male"
+  },
+  {
+    "phone": "(214) 664-1057",
+    "password": "password",
+    "firstName": "Shaan",
+    "lastName": "Sekhon",
+    "dob": "09/10/1994",
+    "email": "ob@gmail.com",
+    "gender": "male"
+  },
+  {
+    "phone": "(214) 667-1057",
+    "password": "password",
+    "firstName": "Shaan",
+    "lastName": "Sekhon",
+    "dob": "03/03/1992",
+    "email": "oberiska@gmail.com",
+    "gender": "male"
+  },
+  {
+    "phone": "(212) 000-0000",
+    "password": "password",
+    "firstName": "Ksdfs",
+    "lastName": "Fsdf",
+    "dob": "01/01/1994",
+    "email": "asd@gmail.com",
+    "gender": "female"
+  },
+  {
+    "phone": "(212) 444-4444",
+    "password": "password",
+    "firstName": "Jdsf",
+    "lastName": "Gsdg",
+    "dob": "04/04/1994",
+    "email": "sdf@gmail.com",
+    "gender": "male"
+  },
+  {
+    "phone": "(999) 999-9999",
+    "password": "password",
+    "firstName": "Jdfs",
+    "lastName": "IDfdf",
+    "dob": "01/01/2003",
+    "email": "sdf@gmail.com",
+    "gender": "male"
+  },
+  {
+    "phone": "(514) 444-4444",
+    "password": "password",
+    "firstName": "Shaan",
+    "lastName": "Sekhon",
+    "dob": "03/03/1945",
+    "email": "oberiska@gmail.com",
+    "gender": "male"
+  }
+]

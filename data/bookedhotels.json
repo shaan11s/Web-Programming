@@ -1,0 +1,66 @@
+[
+  {
+    "hotel-id": 1,
+    "hotel-name": "The Grand Texas Hotel",
+    "city": "Dallas",
+    "price-per-night": 150,
+    "checkInDate": "2024-09-01",
+    "checkOutDate": "2024-09-02"
+  },
+  {
+    "hotel-id": 1,
+    "hotel-name": "The Grand Texas Hotel",
+    "city": "Dallas",
+    "price-per-night": 150,
+    "checkInDate": "2024-09-01",
+    "checkOutDate": "2024-09-02"
+  },
+  {
+    "hotel-id": 15,
+    "hotel-name": "Downtown Dallas Inn",
+    "city": "Dallas",
+    "price-per-night": 140,
+    "checkInDate": "2024-09-01",
+    "checkOutDate": "2024-09-02"
+  },
+  {
+    "hotel-id": 1,
+    "hotel-name": "The Grand Texas Hotel",
+    "city": "Dallas",
+    "price-per-night": 150,
+    "checkInDate": "2024-09-01",
+    "checkOutDate": "2024-09-02"
+  },
+  {
+    "hotel-id": 3,
+    "hotel-name": "Austin City Stay",
+    "city": "Austin",
+    "price-per-night": 140,
+    "checkInDate": "2024-09-01",
+    "checkOutDate": "2024-09-02"
+  },
+  {
+    "hotel-id": 1,
+    "hotel-name": "The Grand Texas Hotel",
+    "city": "Dallas",
+    "price-per-night": 150,
+    "checkInDate": "2024-09-01",
+    "checkOutDate": "2024-09-02"
+  },
+  {
+    "hotel-id": 13,
+    "hotel-name": "Golden Gate Hotel",
+    "city": "San Francisco",
+    "price-per-night": 230,
+    "checkInDate": "2024-09-01",
+    "checkOutDate": "2024-09-02"
+  },
+  {
+    "hotel-id": 1,
+    "hotel-name": "The Grand Texas Hotel",
+    "city": "Dallas",
+    "price-per-night": 150,
+    "checkInDate": "2024-09-01",
+    "checkOutDate": "2024-09-02"
+  }
+]

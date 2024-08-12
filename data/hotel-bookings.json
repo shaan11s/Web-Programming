@@ -1,0 +1,105 @@
+[
+  {
+    "hotel-id": 1,
+    "hotel-name": "The Grand Texas Hotel",
+    "city": "Dallas",
+    "price-per-night": 150,
+    "checkInDate": "2024-09-01",
+    "checkOutDate": "2024-09-02",
+    "adults": 1,
+    "children": 0,
+    "infants": 0,
+    "bookingNumber": "BOOK300094",
+    "guestDetails": [
+      {
+        "firstName": "Hfgh",
+        "lastName": "Gdfg",
+        "dob": "2024-08-06",
+        "ssn": "234",
+        "category": "Adult"
+      }
+    ]
+  },
+  {
+    "hotel-id": 1,
+    "hotel-name": "The Grand Texas Hotel",
+    "city": "Dallas",
+    "price-per-night": 150,
+    "checkInDate": "2024-09-01",
+    "checkOutDate": "2024-09-02",
+    "adults": 1,
+    "children": 0,
+    "infants": 0,
+    "bookingNumber": "BOOK324535",
+    "guestDetails": [
+      {
+        "firstName": "Huh",
+        "lastName": "Ihavenoidea",
+        "dob": "2024-08-15",
+        "ssn": "99999",
+        "category": "Adult"
+      }
+    ]
+  },
+  {
+    "hotelId": 8,
+    "hotelName": "The Texan Resort",
+    "city": "Dallas",
+    "pricePerNight": 160,
+    "checkInDate": "2024-09-01",
+    "checkOutDate": "2024-09-02",
+    "adults": 1,
+    "children": 0,
+    "infants": 0,
+    "bookingNumber": "BOOK595361",
+    "guestDetails": [
+      {
+        "firstName": "Fsdf",
+        "lastName": "Fsdf",
+        "dob": "2024-08-14",
+        "ssn": "12",
+        "category": "Adult"
+      }
+    ]
+  },
+  {
+    "hotelName": "The Grand Texas Hotel",
+    "city": "Dallas",
+    "pricePerNight": 150,
+    "checkInDate": "2024-09-01",
+    "checkOutDate": "2024-09-02",
+    "adults": 1,
+    "children": 0,
+    "infants": 0,
+    "bookingNumber": "BOOK763763",
+    "guestDetails": [
+      {
+        "firstName": "Shaan",
+        "lastName": "Sek",
+        "dob": "2024-08-13",
+        "ssn": "555",
+        "category": "Adult"
+      }
+    ]
+  },
+  {
+    "hotelName": "The Grand Texas Hotel",
+    "city": "Dallas",
+    "pricePerNight": 150,
+    "checkInDate": "2024-09-01",
+    "checkOutDate": "2024-09-02",
+    "adults": 1,
+    "children": 0,
+    "infants": 0,
+    "bookingNumber": "BOOK45093",
+    "guestDetails": [
+      {
+        "firstName": "Shaan",
+        "lastName": "Sekon",
+        "dob": "2024-08-27",
+        "ssn": "111",
+        "category": "Adult"
+      }
+    ]
+  }
+]

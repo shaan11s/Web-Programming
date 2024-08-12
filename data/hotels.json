@@ -1,0 +1,125 @@
+{
+  "hotels": [
+    {
+      "hotelId": 1,
+      "hotel-name": "The Grand Texas Hotel",
+      "city": "Dallas",
+      "price-per-night": 150
+    },
+    {
+      "hotelId": 2,
+      "hotel-name": "Houston Heights Inn",
+      "city": "Houston",
+      "price-per-night": 120
+    },
+    {
+      "hotelId": 3,
+      "hotel-name": "Austin City Stay",
+      "city": "Austin",
+      "price-per-night": 140
+    },
+    {
+      "hotelId": 4,
+      "hotel-name": "San Antonio Suites",
+      "city": "San Antonio",
+      "price-per-night": 130
+    },
+    {
+      "hotelId": 5,
+      "hotel-name": "LA Downtown Hotel",
+      "city": "Los Angeles",
+      "price-per-night": 200
+    },
+    {
+      "hotelId": 6,
+      "hotel-name": "San Francisco Bay Inn",
+      "city": "San Francisco",
+      "price-per-night": 220
+    },
+    {
+      "hotelId": 7,
+      "hotel-name": "San Diego Beach Resort",
+      "city": "San Diego",
+      "price-per-night": 180
+    },
+    {
+      "hotelId": 8,
+      "hotel-name": "The Texan Resort",
+      "city": "Dallas",
+      "price-per-night": 160
+    },
+    {
+      "hotelId": 9,
+      "hotel-name": "Houston Grand Plaza",
+      "city": "Houston",
+      "price-per-night": 170
+    },
+    {
+      "hotelId": 10,
+      "hotel-name": "Austin Boutique Hotel",
+      "city": "Austin",
+      "price-per-night": 190
+    },
+    {
+      "hotelId": 11,
+      "hotel-name": "Riverwalk Hotel",
+      "city": "San Antonio",
+      "price-per-night": 150
+    },
+    {
+      "hotelId": 12,
+      "hotel-name": "Hollywood Inn",
+      "city": "Los Angeles",
+      "price-per-night": 210
+    },
+    {
+      "hotelId": 13,
+      "hotel-name": "Golden Gate Hotel",
+      "city": "San Francisco",
+      "price-per-night": 230
+    },
+    {
+      "hotelId": 14,
+      "hotel-name": "Pacific Beach Resort",
+      "city": "San Diego",
+      "price-per-night": 190
+    },
+    {
+      "hotelId": 15,
+      "hotel-name": "Downtown Dallas Inn",
+      "city": "Dallas",
+      "price-per-night": 140
+    },
+    {
+      "hotelId": 16,
+      "hotel-name": "Houston Uptown Hotel",
+      "city": "Houston",
+      "price-per-night": 160
+    },
+    {
+      "hotelId": 17,
+      "hotel-name": "Austin Riverside Hotel",
+      "city": "Austin",
+      "price-per-night": 170
+    },
+    {
+      "hotelId": 18,
+      "hotel-name": "Alamo Plaza Hotel",
+      "city": "San Antonio",
+      "price-per-night": 140
+    },
+    {
+      "hotelId": 19,
+      "hotel-name": "LA Luxury Suites",
+      "city": "Los Angeles",
+      "price-per-night": 220
+    },
+    {
+      "hotelId": 20,
+      "hotel-name": "Bay Area Hotel",
+      "city": "San Francisco",
+      "price-per-night": 240
+    }
+  ]
+}
+

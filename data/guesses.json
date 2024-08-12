@@ -1,0 +1,18 @@
+[
+  {
+    "firstName": "Hfgh",
+    "lastName": "Gdfg",
+    "dob": "2024-08-06",
+    "ssn": "234",
+    "category": "Adult",
+    "bookingNumber": "BOOK300094"
+  },
+  {
+    "firstName": "Huh",
+    "lastName": "Ihavenoidea",
+    "dob": "2024-08-15",
+    "ssn": "99999",
+    "category": "Adult",
+    "bookingNumber": "BOOK324535"
+  }
+]

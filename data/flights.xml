@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<flights>
+  <flight>
+    <flight-id>121</flight-id>
+    <origin>Austin</origin>
+    <destination>Dallas</destination>
+    <departure-date>2024-09-10</departure-date>
+    <arrival-date>2024-09-11</arrival-date>
+    <departure-time>08:00</departure-time>
+    <arrival-time>10:00</arrival-time>
+    <available-seats>125</available-seats>
+    <price>150</price>
+  </flight>
+  <flight>
+    <flight-id>321</flight-id>
+    <origin>Austin</origin>
+    <destination>Dallas</destination>
+    <departure-date>2024-09-10</departure-date>
+    <arrival-date>2024-09-11</arrival-date>
+    <departure-time>14:00</departure-time>
+    <arrival-time>16:00</arrival-time>
+    <available-seats>100</available-seats>
+    <price>200</price>
+  </flight>
+  <flight>
+    <flight-id>421</flight-id>
+    <origin>Dallas</origin>
+    <destination>Austin</destination>
+    <departure-date>2024-11-01</departure-date>
+    <arrival-date>2024-11-01</arrival-date>
+    <departure-time>07:00</departure-time>
+    <arrival-time>09:00</arrival-time>
+    <available-seats>81</available-seats>
+    <price>175</price>
+  </flight>
+  <flight>
+    <flight-id>521</flight-id>
+    <origin>Dallas</origin>
+    <destination>San Francisco</destination>
+    <departure-date>2024-12-01</departure-date>
+    <arrival-date>2024-12-01</arrival-date>
+    <departure-time>12:00</departure-time>
+    <arrival-time>14:30</arrival-time>
+    <available-seats>130</available-seats>
+    <price>160</price>
+  </flight>
+  <flight>
+    <flight-id>621</flight-id>
+    <origin>San Francisco</origin>
+    <destination>Dallas</destination>
+    <departure-date>2024-09-20</departure-date>
+    <arrival-date>2024-09-20</arrival-date>
+    <departure-time>15:00</departure-time>
+    <arrival-time>17:30</arrival-time>
+    <available-seats>110</available-seats>
+    <price>190</price>
+  </flight>
+  <flight>
+    <flight-id>721</flight-id>
+    <origin>Houston</origin>
+    <destination>Los Angeles</destination>
+    <departure-date>2024-10-10</departure-date>
+    <arrival-date>2024-10-10</arrival-date>
+    <departure-time>10:00</departure-time>
+    <arrival-time>12:30</arrival-time>
+    <available-seats>140</available-seats>
+    <price>210</price>
+  </flight>
+  <flight>
+    <flight-id>821</flight-id>
+    <origin>San Antonio</origin>
+    <destination>San Francisco</destination>
+    <departure-date>2024-11-05</departure-date>
+    <arrival-date>2024-11-05</arrival-date>
+    <departure-time>06:00</departure-time>
+    <arrival-time>08:30</arrival-time>
+    <available-seats>80</available-seats>
+    <price>170</price>
+  </flight>
+  <flight>
+    <flight-id>921</flight-id>
+    <origin>Austin</origin>
+    <destination>San Diego</destination>
+    <departure-date>2024-12-05</departure-date>
+    <arrival-date>2024-12-05</arrival-date>
+    <departure-time>13:00</departure-time>
+    <arrival-time>15:00</arrival-time>
+    <available-seats>150</available-seats>
+    <price>200</price>
+  </flight>
+  <flight>
+    <flight-id>1021</flight-id>
+    <origin>Dallas</origin>
+    <destination>Los Angeles</destination>
+    <departure-date>2024-09-25</departure-date>
+    <arrival-date>2024-09-25</arrival-date>
+    <departure-time>08:30</departure-time>
+    <arrival-time>10:30</arrival-time>
+    <available-seats>120</available-seats>
+    <price>185</price>
+  </flight>
+  <flight>
+    <flight-id>1151</flight-id>
+    <origin>Houston</origin>
+    <destination>San Francisco</destination>
+    <departure-date>2024-10-15</departure-date>
+    <arrival-date>2024-10-15</arrival-date>
+    <departure-time>14:30</departure-time>
+    <arrival-time>17:00</arrival-time>
+    <available-seats>100</available-seats>
+    <price>220</price>
+  </flight>
+  <flight>
+    <flight-id>1251</flight-id>
+    <origin>San Antonio</origin>
+    <destination>San Diego</destination>
+    <departure-date>2024-11-10</departure-date>
+    <arrival-date>2024-11-10</arrival-date>
+    <departure-time>09:00</departure-time>
+    <arrival-time>11:30</arrival-time>
+    <available-seats>90</available-seats>
+    <price>195</price>
+  </flight>
+  <flight>
+    <flight-id>1351</flight-id>
+    <origin>Austin</origin>
+    <destination>Los Angeles</destination>
+    <departure-date>2024-12-10</departure-date>
+    <arrival-date>2024-12-10</arrival-date>
+    <departure-time>11:00</departure-time>
+    <arrival-time>13:00</arrival-time>
+    <available-seats>140</available-seats>
+    <price>210</price>
+  </flight>
+  <flight>
+    <flight-id>1451</flight-id>
+    <origin>Dallas</origin>
+    <destination>San Francisco</destination>
+    <departure-date>2024-09-30</departure-date>
+    <arrival-date>2024-09-30</arrival-date>
+    <departure-time>07:00</departure-time>
+    <arrival-time>09:30</arrival-time>
+    <available-seats>130</available-seats>
+    <price>170</price>
+  </flight>
+  <flight>
+    <flight-id>1551</flight-id>
+    <origin>Houston</origin>
+    <destination>San Diego</destination>
+    <departure-date>2024-10-20</departure-date>
+    <arrival-date>2024-10-20</arrival-date>
+    <departure-time>16:00</departure-time>
+    <arrival-time>18:30</arrival-time>
+    <available-seats>110</available-seats>
+    <price>200</price>
+  </flight>
+  <flight>
+    <flight-id>1651</flight-id>
+    <origin>San Antonio</origin>
+    <destination>Los Angeles</destination>
+    <departure-date>2024-11-15</departure-date>
+    <arrival-date>2024-11-15</arrival-date>
+    <departure-time>12:30</departure-time>
+    <arrival-time>14:30</arrival-time>
+    <available-seats>120</available-seats>
+    <price>185</price>
+  </flight>
+  <flight>
+    <flight-id>1751</flight-id>
+    <origin>Austin</origin>
+    <destination>San Francisco</destination>
+    <departure-date>2024-12-15</departure-date>
+    <arrival-date>2024-12-15</arrival-date>
+    <departure-time>15:00</departure-time>
+    <arrival-time>17:30</arrival-time>
+    <available-seats>150</available-seats>
+    <price>210</price>
+  </flight>
+  <flight>
+    <flight-id>1851</flight-id>
+    <origin>Dallas</origin>
+    <destination>San Diego</destination>
+    <departure-date>2024-09-10</departure-date>
+    <arrival-date>2024-09-10</arrival-date>
+    <departure-time>08:00</departure-time>
+    <arrival-time>10:00</arrival-time>
+    <available-seats>100</available-seats>
+    <price>180</price>
+  </flight>
+  <flight>
+    <flight-id>1951</flight-id>
+    <origin>Houston</origin>
+    <destination>Los Angeles</destination>
+    <departure-date>2024-10-25</departure-date>
+    <arrival-date>2024-10-25</arrival-date>
+    <departure-time>11:00</departure-time>
+    <arrival-time>13:30</arrival-time>
+    <available-seats>120</available-seats>
+    <price>230</price>
+  </flight>
+  <flight>
+    <flight-id>2051</flight-id>
+    <origin>San Antonio</origin>
+    <destination>San Francisco</destination>
+    <departure-date>2024-11-20</departure-date>
+    <arrival-date>2024-11-20</arrival-date>
+    <departure-time>13:00</departure-time>
+    <arrival-time>15:30</arrival-time>
+    <available-seats>140</available-seats>
+    <price>195</price>
+  </flight>
+  <flight>
+    <flight-id>2151</flight-id>
+    <origin>Austin</origin>
+    <destination>San Diego</destination>
+    <departure-date>2024-12-20</departure-date>
+    <arrival-date>2024-12-20</arrival-date>
+    <departure-time>17:00</departure-time>
+    <arrival-time>19:00</arrival-time>
+    <available-seats>110</available-seats>
+    <price>210</price>
+  </flight>
+  <flight>
+    <flight-id>2521</flight-id>
+    <origin>Dallas</origin>
+    <destination>Los Angeles</destination>
+    <departure-date>2024-09-12</departure-date>
+    <arrival-date>2024-09-12</arrival-date>
+    <departure-time>07:30</departure-time>
+    <arrival-time>09:30</arrival-time>
+    <available-seats>130</available-seats>
+    <price>175</price>
+  </flight>
+  <flight>
+    <flight-id>2351</flight-id>
+    <origin>Houston</origin>
+    <destination>San Francisco</destination>
+    <departure-date>2024-10-30</departure-date>
+    <arrival-date>2024-10-30</arrival-date>
+    <departure-time>06:30</departure-time>
+    <arrival-time>09:00</arrival-time>
+    <available-seats>90</available-seats>
+    <price>220</price>
+  </flight>
+  <flight>
+    <flight-id>2451</flight-id>
+    <origin>San Antonio</origin>
+    <destination>San Diego</destination>
+    <departure-date>2024-11-25</departure-date>
+    <arrival-date>2024-11-25</arrival-date>
+    <departure-time>16:30</departure-time>
+    <arrival-time>18:30</arrival-time>
+    <available-seats>150</available-seats>
+    <price>190</price>
+  </flight>
+  <flight>
+    <flight-id>2551</flight-id>
+    <origin>Austin</origin>
+    <destination>Los Angeles</destination>
+    <departure-date>2024-12-25</departure-date>
+    <arrival-date>2024-12-25</arrival-date>
+    <departure-time>09:30</departure-time>
+    <arrival-time>11:30</arrival-time>
+    <available-seats>150</available-seats>
+    <price>215</price>
+  </flight>
+  <flight>
+    <flight-id>2651</flight-id>
+    <origin>Dallas</origin>
+    <destination>San Francisco</destination>
+    <departure-date>2024-09-05</departure-date>
+    <arrival-date>2024-09-05</arrival-date>
+    <departure-time>10:00</departure-time>
+    <arrival-time>12:30</arrival-time>
+    <available-seats>140</available-seats>
+    <price>185</price>
+  </flight>
+  <flight>
+    <flight-id>2751</flight-id>
+    <origin>Houston</origin>
+    <destination>San Antonio</destination>
+    <departure-date>2024-09-05</departure-date>
+    <arrival-date>2024-09-05</arrival-date>
+    <departure-time>10:00</departure-time>
+    <arrival-time>11:30</arrival-time>
+    <available-seats>130</available-seats>
+    <price>120</price>
+  </flight>
+  <flight>
+    <flight-id>2851</flight-id>
+    <origin>San Diego</origin>
+    <destination>Los Angeles</destination>
+    <departure-date>2024-09-10</departure-date>
+    <arrival-date>2024-09-10</arrival-date>
+    <departure-time>09:00</departure-time>
+    <arrival-time>10:00</arrival-time>
+    <available-seats>140</available-seats>
+    <price>100</price>
+  </flight>
+  <flight>
+    <flight-id>2951</flight-id>
+    <origin>Los Angeles</origin>
+    <destination>San Francisco</destination>
+    <departure-date>2024-09-15</departure-date>
+    <arrival-date>2024-09-15</arrival-date>
+    <departure-time>08:00</departure-time>
+    <arrival-time>09:30</arrival-time>
+    <available-seats>120</available-seats>
+    <price>110</price>
+  </flight>
+  <flight>
+    <flight-id>3051</flight-id>
+    <origin>San Francisco</origin>
+    <destination>San Diego</destination>
+    <departure-date>2024-10-05</departure-date>
+    <arrival-date>2024-10-05</arrival-date>
+    <departure-time>12:00</departure-time>
+    <arrival-time>13:30</arrival-time>
+    <available-seats>110</available-seats>
+    <price>130</price>
+  </flight>
+  <flight>
+    <flight-id>3151</flight-id>
+    <origin>San Diego</origin>
+    <destination>Houston</destination>
+    <departure-date>2024-10-10</departure-date>
+    <arrival-date>2024-10-10</arrival-date>
+    <departure-time>14:00</departure-time>
+    <arrival-time>18:00</arrival-time>
+    <available-seats>150</available-seats>
+    <price>220</price>
+  </flight>
+  <flight>
+    <flight-id>3251</flight-id>
+    <origin>San Francisco</origin>
+    <destination>San Antonio</destination>
+    <departure-date>2024-11-05</departure-date>
+    <arrival-date>2024-11-05</arrival-date>
+    <departure-time>07:00</departure-time>
+    <arrival-time>10:00</arrival-time>
+    <available-seats>90</available-seats>
+    <price>190</price>
+  </flight>
+  <flight>
+    <flight-id>3351</flight-id>
+    <origin>San Antonio</origin>
+    <destination>Dallas</destination>
+    <departure-date>2024-11-20</departure-date>
+    <arrival-date>2024-11-20</arrival-date>
+    <departure-time>10:00</departure-time>
+    <arrival-time>11:00</arrival-time>
+    <available-seats>150</available-seats>
+    <price>140</price>
+  </flight>
+</flights>

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - Travel Deals</title>
+    <link rel="stylesheet" href="../css/mystyle.css">
+    <script src="../js/login.js" defer></script>
+</head>
+<body>
+    <header>
+        <h1>Login</h1>
+        <div id="datetime"></div>
+        <div id="user-greeting"></div>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="stays.html">Stays</a>
+        <a href="flights.html">Flights</a>
+        <a href="cars.html">Cars</a>
+        <a href="cruises.html">Cruises</a>
+        <a href="contact-us.html">Contact Us</a>
+        <a href="cart.html">Cart</a>
+        <a href="register.html">Register</a>
+        <a href="login.html">Login</a>
+    </nav>
+    <div class="content">
+        <aside>
+            <h3>Customize Your Experience</h3>
+            <label for="fontSize">Font Size:</label>
+            <select id="fontSize">
+                <option value="small">Small</option>
+                <option value="medium">Medium</option>
+                <option value="large">Large</option>
+            </select>
+            <br><br>
+            <label for="bgColor">Background Color:</label>
+            <input type="color" id="bgColor">
+        </aside>
+        <main>
+            <h2>Login to Your Account</h2>
+            <form id="loginForm">
+                <div class="input-group">
+                    <label for="phone">Phone Number:</label>
+                    <input type="text" id="phone" name="phone" required>
+                </div>
+                <div class="input-group">
+                    <label for="password">Password:</label>
+                    <input type="password" id="password" name="password" required>
+                </div>
+                <button type="submit" class="submit-btn">Login</button>
+                <p id="error" class="error"></p>
+            </form>
+        </main>
+    </div>
+    <footer>
+        <p>Shaan Sekhon SSS152530, 0U1</p>
+    </footer>
+</body>
+</html>

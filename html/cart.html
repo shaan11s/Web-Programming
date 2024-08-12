@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cart</title>
+    <link rel="stylesheet" href="../css/mystyle.css">
+    <script src="../js/cart.js" defer></script>
+</head>
+<body>
+    <header>
+        <h1>Cart</h1>
+        <div id="datetime"></div>
+        <div id="user-greeting"></div>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="stays.html">Stays</a>
+        <a href="flights.html">Flights</a>
+        <a href="cars.html">Cars</a>
+        <a href="cruises.html">Cruises</a>
+        <a href="contact-us.html">Contact Us</a>
+        <a href="cart.html">Cart</a>
+        <a href="register.html">Register</a>
+        <a href="login.html">Login</a>
+    </nav>
+    
+    <div class="content">
+        <aside>
+            <h3>Customize Your Experience</h3>
+            <label for="fontSize">Font Size:</label>
+            <select id="fontSize">
+                <option value="small">Small</option>
+                <option value="medium">Medium</option>
+                <option value="large">Large</option>
+            </select>
+            <br><br>
+            <label for="bgColor">Background Color:</label>
+            <input type="color" id="bgColor">
+        </aside>
+        <main>
+            <h2>Selected Flights</h2>
+            <div id="selectedFlights"></div>
+            <button onclick="clearFlights()">Clear Flights</button>
+            <h2>Passenger Information</h2>
+            <form id="passengerForm">
+                <div id="passengerDetails"></div>
+                <button type="button" onclick="bookFlight()">Book Flight</button>
+            </form>
+            <h2>Selected Hotels</h2>
+            <div id="selectedHotels"></div>
+            <h2>Hotel Guest Details</h2>
+            <form id="hotelGuestForm">
+                <div id="hotelGuestDetails"></div>
+                <button type="button" onclick="bookHotel()">Book Hotel</button>
+            </form>
+            <button onclick="clearHotels()">Clear Hotel(s)</button>
+            <h2>Booking Confirmation</h2>
+            <div id="bookingConfirmation"></div>
+        </main>
+    </div>
+    <footer>
+        <p>Shaan Sekhon SSS152530, 0U1</p>
+    </footer>
+</body>
+</html>
